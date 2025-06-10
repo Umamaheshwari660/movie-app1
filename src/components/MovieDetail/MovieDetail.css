@@ -1,0 +1,98 @@
+
+
+
+.movie-detail {
+  font-family: sans-serif;
+  color: white;
+}
+
+.banner {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.banner-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  filter: brightness(0.4);
+   display: block;
+}
+
+.main-content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+  max-width: 1300px;
+  width: 90%;
+  height: 100%;
+}
+
+.left .poster-img {
+  width: 250px;
+  border-radius: 10px;
+  
+}
+
+.right {
+  max-width: 600px;
+}
+
+.right h1 {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.right .genre {
+  font-style: italic;
+  color: #ddd;
+  margin-bottom: 1rem;
+}
+
+.right .description {
+  margin-bottom: 1rem;
+  line-height: 1.4;
+}
+
+.right h2 {
+  font-size: 1.5rem;
+  margin-top: 1rem;
+}
+
+.casts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.casts p {
+  background: rgba(255, 255, 255, 0.2);
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+}
+
+.trailer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 100px;
+  
+}
+/* .trailer h2{
+  font-size: 50px;
+} */
+
+.video-frame {
+  width: 70%;
+  height: 500px;
+  border-radius: 16px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  border: none;
+  
+}
