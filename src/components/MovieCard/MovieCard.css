@@ -27,7 +27,27 @@
   border: 3px solid #b81d1d;
  
 }
-
 .movie-card:hover .overlay {
   opacity: 1;
 }
+.movie-card .overlay i {
+  font-size: 2rem;
+  color: #f80303;
+  margin-bottom: 8px;
+}
+
+/* Title text at bottom of overlay */
+.overlay-title {
+  /* position: absolute; */
+  /* bottom: 10px; */
+  width: 100%;
+  text-align: center;
+  
+  color: #de1515;
+  font-size: 2rem;
+  padding: 0 4px; /* some padding if title is long */
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.7);
+  border: 1px solid #44db42;
+}
+
+

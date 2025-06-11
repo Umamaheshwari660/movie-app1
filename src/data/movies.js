@@ -1,86 +1,3 @@
-// export const movies = [
-//   {
-//     id: 1,
-//     title: "ISHQ",
-//     image: "https://images.filmibeat.com/ph-big/2011/12/ishq_13250487818.jpg",
-//     banner: "https://tse4.mm.bing.net/th?id=OIP.GtcG0coKEDzmzFmeK50hMgHaLJ&pid=Api&P=0&h=180",
-//     description: "A mind-bending thriller by Christopher Nolan.",
-//     youtubeTrailerId: "_eoiB7wq3Kg"
-//   },
-//    {
-//     id: 2,
-//     title: "IDDARAMMAYILATHO",
-//     image: "http://4.bp.blogspot.com/-YkUZtkU76UQ/UX5dOFSPfQI/AAAAAAAAZv8/lucxgVzoa8w/s1600/Iddarammayilatho+Movie+Audio+Released+Special+Wallpapers+12.jpg",
-//     banner: "http://4.bp.blogspot.com/-YkUZtkU76UQ/UX5dOFSPfQI/AAAAAAAAZv8/lucxgVzoa8w/s1600/Iddarammayilatho+Movie+Audio+Released+Special+Wallpapers+12.jpg",
-//     description: "A mind-bending thriller by Christopher Nolan.",
-//     youtubeTrailerId: "b3Ya6RdGZGc"
-//   },
-//    {
-//     id: 3,
-//     title: "PANDAGA CHESKO",
-//     image: "https://www.chitramala.in/wp-content/uploads/2015/05/Ram-Pandaga-Chesko-Movie-Censor.jpg",
-//     banner: "https://www.chitramala.in/wp-content/uploads/2015/05/Ram-Pandaga-Chesko-Movie-Censor.jpg",
-//     description: "A mind-bending thriller by Christopher Nolan.",
-//     youtubeTrailerId: "WlhuYvrE3vA"
-//   },
-//   {
-//     id: 4,
-//     title: "RUDHRAMADEVI",
-//     image: "http://www.idlebrain.com/images5/still-rudramadevi3.jpg",
-//     banner: "https://www.wallpaperbetter.com/wallpaper/608/759/788/anushka-shetty-in-rudramadevi-movie-2K-wallpaper.jpg'",
-//     description: "A mind-bending thriller by Christopher Nolan.",
-//     youtubeTrailerId: "Fc0QmDnNy3U"
-//   },
-//   {
-//     id: 5,
-//     title: "SYE RAA NARASIMHA REDDY",
-//     image: "https://www.filmibeat.com/fanimg/movie/16347/sye-raa-narasimha-reddy-photos-images-66127.jpeg",
-//     banner: "https://www.socialnews.xyz/wp-content/uploads/2019/09/29/Megastar-Chiranjeevi-Ultra-HD-Stills-from-Sye-Raa-Narasimha-Reddy-Movie-.jpg",
-//     description: "A mind-bending thriller by Christopher Nolan.",
-//     youtubeTrailerId: "KyhrrdpA2YA"
-//   },
-//   {
-//     id: 6,
-//     title: "LUCKY BASKHAR",
-//     image: "https://www.chitramala.in/wp-content/uploads/2015/05/Ram-Pandaga-Chesko-Movie-Censor.jpg",
-//     banner: "https://www.chitramala.in/wp-content/uploads/2015/05/Ram-Pandaga-Chesko-Movie-Censor.jpg",
-//     description: "A mind-bending thriller by Christopher Nolan.",
-//     youtubeTrailerId: "Kv5RKsqVe-Y"
-//   },
-//   {
-//     id: 7,
-//     title: "SITA RAMAM",
-//     image: "https://www.chitramala.in/wp-content/uploads/2015/05/Ram-Pandaga-Chesko-Movie-Censor.jpg",
-//     banner: "https://www.chitramala.in/wp-content/uploads/2015/05/Ram-Pandaga-Chesko-Movie-Censor.jpg",
-//     description: "A mind-bending thriller by Christopher Nolan.",
-//     youtubeTrailerId: "Ljk6tGZ1l3A"
-//   },
-//   {
-//     id: 8,
-//     title: "MAX",
-//     image: "https://www.chitramala.in/wp-content/uploads/2015/05/Ram-Pandaga-Chesko-Movie-Censor.jpg",
-//     banner: "https://www.chitramala.in/wp-content/uploads/2015/05/Ram-Pandaga-Chesko-Movie-Censor.jpg",
-//     description: "A mind-bending thriller by Christopher Nolan.",
-//     youtubeTrailerId: "6EPPMCwD5bw"
-//   },
-//   {
-//     id: 9,
-//     title: "OOpiri",
-//     image: "https://images.justwatch.com/poster/266157073/s718/oopiri.%7Bformat%7D",
-//     banner: "https://www.chitramala.in/wp-content/uploads/2015/05/Ram-Pandaga-Chesko-Movie-Censor.jpg",
-//     description: "A mind-bending thriller by Christopher Nolan.",
-//     youtubeTrailerId: "e1ddsJ38D5Q"
-//   },
-//   {
-//     id: 10,
-//     title: "HI NANNA",
-//     image: "https://images.justwatch.com/poster/266157073/s718/oopiri.%7Bformat%7D",
-//     banner: "https://www.chitramala.in/wp-content/uploads/2015/05/Ram-Pandaga-Chesko-Movie-Censor.jpg",
-//     description: "A mind-bending thriller by Christopher Nolan.",
-//     youtubeTrailerId: "3Ld05Om2UWs"
-//   },
-//   // Add 9 more movie objects
-// ];
 
 
 
@@ -91,7 +8,8 @@ export const movies = [
     image: "https://images.filmibeat.com/ph-big/2011/12/ishq_13250487818.jpg",
     banner: "https://wallpapercave.com/wp/wp5000965.jpg",
     description: "A romantic thriller starring Nithiin and Nithya Menen.",
-    youtubeTrailerId: "_eoiB7wq3Kg"
+    youtubeTrailerId: "_eoiB7wq3Kg",
+    
   },
   {
     id: 2,

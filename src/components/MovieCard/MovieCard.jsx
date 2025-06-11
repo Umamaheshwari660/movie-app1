@@ -6,14 +6,22 @@ const MovieCard = ({ movie }) => {
   const navigate = useNavigate();
 
   return (
+
+
+
+
+
     
     <div className="movie-card" onClick={() => navigate(`/movie/${movie.id}`)}>
-      <img src={movie.image} alt={movie.title} />
+      <img src={movie.image}  />
       <div className="overlay">
         <i className="fab fa-youtube"></i>
-      </div>
+      </div>   
+       <span className="overlay-title">{movie.title}</span>
     </div>
+ 
   );
 };
+
 
 export default MovieCard;
